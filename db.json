@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ahmed",
+      "age": 23,
+      "phone": "01091820422"
+    },
+    {
+      "id": 6,
+      "name": "Fred",
+      "age": "Blair",
+      "email": "freddyb34@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Fred",
+      "age": "Blair",
+      "email": "freddyb34@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Fred",
+      "age": "Blair",
+      "email": "freddyb34@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Fred",
+      "age": "Blair",
+      "email": "freddyb34@gmail.com"
+    },
+    {
+      "id": "55555",
+      "name": "Ahmed Ali",
+      "age": "255",
+      "phone": "ddd"
+    }
+  ]
+}
